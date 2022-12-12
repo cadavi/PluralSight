@@ -3,7 +3,7 @@
     public interface IPieRepository
     {
         IEnumerable<Pie> AllPies { get; }
-        IEnumerable<Pie> PieOfTheWeek { get; }
-        Pie? GetPiById(int pieId);
+        IEnumerable<Pie> PiesOfTheWeek { get; }
+        Pie? GetPieById(int pieId);
     }
 }

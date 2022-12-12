@@ -14,3 +14,51 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Carlos_Mendez\OneDrive - WorldWide Group\Desktop\PluralSight\PluralSight\ASP.NET CORE\BethanysPieShop\BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Pie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Pie/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlNZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Shared/Components/ShoppinCartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbkNhcnRTdW1tYXJ5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/Shared/_PieCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos_Mendez/OneDrive - WorldWide Group/Desktop/PluralSight/PluralSight/ASP.NET CORE/BethanysPieShop/BethanysPieShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
